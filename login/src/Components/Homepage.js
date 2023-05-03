@@ -10,9 +10,9 @@ const Homepage = () => {
                     <ul>
                     {/* the home content these link is avaliable in main page */}
                        <li><Link to="/">Home</Link></li> 
-                        <li><Link to="/about">About</Link></li>
-                        <li><Link to="/shop">Shop</Link></li>
-                        <li><Link to="/fea">features</Link></li>
+                        <li><Link to="/about">Mens</Link></li>
+                        <li><Link to="/shop">Womens</Link></li>
+                        <li><Link to="/fea"> Shop</Link></li>
                         <li className="dropdown">
                             <a href="#">Services</a>
                             <ul className="dropdown-content">
